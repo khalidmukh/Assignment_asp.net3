@@ -1,0 +1,6 @@
+1 Abdimalig mohamed ismaacil. id = 3005                   
+2 nimco abdi xuseen.          id = 3074
+3 raxma mustafe comar.        id = 3079
+4 khalid mukhtaar Abdi.       id = 3059
+
+
